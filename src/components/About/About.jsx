@@ -49,7 +49,7 @@ const About = () => {
           </p>
           {/* Resume Button */}
           <a
-            href="put your resume link here" //put your resiume link here
+            href="https://docs.google.com/document/d/1g6GtnbJej3ksyD6B2tROh6_S62FFMr_I/edit?usp=sharing&ouid=110049830026089812197&rtpof=true&sd=true" //put your resiume link here
             target="_blank"
             rel="noopener noreferrer"
             className="inline-block text-white py-3 px-8 rounded-full mt-5 text-lg font-bold transition duration-300 transform hover:scale-105"

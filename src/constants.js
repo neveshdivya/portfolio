@@ -190,7 +190,7 @@ export const education = [
     img: bsaLogo,
     school: "SRM IST (Institute of Science and Technology), Chennai",
     date: "July 2023 - Aug 2027",
-    grade: "8.01 CGPA (Till Now)",
+    grade: "8.11 CGPA (Till Now)",
     desc: "I am currently ompleating my Bachelor's degree in Computer Science (B.Tech) from SRM IST (Institute of Science and Technology), Chennai. Throughout my studies, I was immersed in a variety of subjects that deepened my understanding of computing and technology. From exploring Data Structures and Algorithms to diving into Web Development and Database Management Systems, I gained practical insights into the world of software development. My time at BSA College allowed me to work on projects that applied theoretical concepts to real-world problems.",
     degree: "Bachelor of Technology - B.Tech (Computer Science)",
   },
